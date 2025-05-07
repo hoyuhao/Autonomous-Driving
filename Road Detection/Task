@@ -1,0 +1,4 @@
+Mark the front lane lines in road videos using classical computer vision techniques, maintaining robustness even under:
+- Changing lane color (white/yellow)
+- Brightness and shadow interference
+- Dashed or curved lines
